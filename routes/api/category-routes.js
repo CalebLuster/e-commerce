@@ -88,7 +88,7 @@ router.delete("/:id", (req, res) => {
     },
   })
     .then((dbCategoryData) => {
-      if (!dbCategoryData[0]) {
+      if (!dbCategoryData) {
         res.status(404).json({ message: "No Category Found" });
         return;
       }
