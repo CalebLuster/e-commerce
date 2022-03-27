@@ -15,4 +15,4 @@ A neat back-end app that holds data!
         WHEN I test API POST, PUT, and DELETE routes in Insomnia
         THEN I am able to successfully create, update, and delete data in my database
 
-Video Link: 
+Video Link: https://drive.google.com/file/d/1AL2fUVIWjp2jQYD3WGO25EwjHHaD-0Q1/view
